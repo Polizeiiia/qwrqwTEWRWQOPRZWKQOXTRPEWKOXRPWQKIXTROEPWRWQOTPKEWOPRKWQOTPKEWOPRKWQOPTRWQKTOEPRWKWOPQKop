@@ -1,0 +1,20 @@
+{
+  "prefix": "!",
+  "sahip": [ "957282617256984596" ],
+  "token": "MTA0MzY0Nzc4MDM1MjE2MzkzMg.GnXuiZ.pDgvecvnZ_WNF8oI4RSWjF8x7RpA8f2sdwSQxI",
+  "guild": {
+    "id": "988016544221122571",
+    "tag": "∂",
+    "roles": {
+      "generalAuth": "1043636806991741018",
+      "registerAuth": "1043636862352363540",
+      "unRegistered": "1043646643397996634",
+      "man": "1043637125024858132",
+      "woman": "1043637110609031178",
+      "other": "1043646184151064626"
+    },
+    "registerChannel": "1043637537073266729"
+  },
+  "normalName": true,
+  "line": "|"
+}
